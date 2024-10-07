@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel,and Flutter**
 
-- 💬 Ask me about **IT And Programming **
+- 💬 Ask me about **IT And Programming**
 
 - 📫 How to reach me **jamarosaragih05@gmail.com**
 
