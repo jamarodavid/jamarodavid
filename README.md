@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamaro David Saragih</h1>
-<h3 align="center">Web Developer from Indonesia</h3>
+<h3 align="center">IT enthusiast</h3>
 
 
 <img align="right" height="200" src="https://ih1.redbubble.net/image.5070447029.8949/ur,mouse_pad_small_flatlay_prop,square,1000x1000.jpg"  />
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel,and Flutter**
 
-- 💬 Ask me about **IT And Programming or Ask Chat GPT**
+- 💬 Ask me about **IT And Programming **
 
 - 📫 How to reach me **jamarosaragih05@gmail.com**
 
